@@ -1553,7 +1553,7 @@ class Avanza:
             {
                 'orderbookId': order_book_id,
                 'accountId': account_id,
-                'volume': volume
+                'amount': volume
             }
         )
 
